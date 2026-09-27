@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafial</h1>
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71C1C&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Something!!!;Python+Enthusiast;Always+Learning..." alt="Typing SVG" />
-  </a>
+<h1 align="center"> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Python+Developer+%7C+Enthusiast;Exploring+the+World+of+Code;Building+%26+Learning+Every+Day;Turning+Ideas+into+Code..." alt="Typing SVG" /> </a> </h3>
 </h
 
 
