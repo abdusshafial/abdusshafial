@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafial</h1>
-<h1 align="center"> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Python+Developer+%7C+Enthusiast;Exploring+the+World+of+Code;Building+%26+Learning+Every+Day;Turning+Ideas+into+Code..." alt="Typing SVG" /> </a> </h3>
-</h
-
-
+<h1 align="center"> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=💻+Computer+Science+Student;🐍+Python+Enthusiast;🚀+Aspiring+Software+Engineer;🧠+Problem+Solver;⚡+Building+Cool+Things+with+Code;🌱+Always+Learning+%26+Growing" alt="Typing SVG" /> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"> </p> <h3 align="center">✨ Code • Create • Learn • Repeat ✨</h3> <p align="center"> <i>Turning ideas into code and learning something new every day.</i> </p>
 # 💫 About Me:
 **Computer Science Student | Tech Enthusiast**<br><br>I am currently pursuing my degree in CSE at **Independent University, Bangladesh**. I love exploring how things work under the hood and building efficient software.<br><br>* 🏫 **Student:** Independent University, Bangladesh (IUB)<br>* 💻 **Major:** Computer Science and Engineering<br>* 🌱 **Learning:** Data Structures, Algorithms<br>* 💬 **Ask me about:** python<br>* 📫 **Reach me:** abdusshafial@gmail.com
 
