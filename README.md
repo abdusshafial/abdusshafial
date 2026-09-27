@@ -23,3 +23,4 @@
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abdusshafial.abdusshafial)
+<div align="center"> 🚀 My Coding Journey <img src="https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FF00FF&area=true&area_color=7B2FF7&hide_border=true&custom_title=Contribution%20Activity" width="100%"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahid_maruf&theme=black-ice&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" width="85%"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=github_dark" width="100%"/> </div>
